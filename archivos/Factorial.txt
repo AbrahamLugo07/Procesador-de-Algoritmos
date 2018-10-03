@@ -1,0 +1,10 @@
+Inicio
+ Definir num, i, fac Como Entero; 
+ Escribir "Ingrese nro"; 
+ Leer num; 
+ fac = 1; 
+	Para (i<-1, Hasta num, Con Paso 1) Hacer 
+	  fac = fac*i; 
+	FinPara 
+ Escribir "El factorial de su nro es = ", fac; 
+Fin

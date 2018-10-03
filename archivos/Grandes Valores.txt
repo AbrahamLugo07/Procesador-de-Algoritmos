@@ -1,0 +1,4911 @@
+Inicio
+
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+  PARA (i=1 HASTA 3 CON INCREMENTO +1)
+     Si(i =1 or i=2)
+      ESCRIBE "Abscisa del punto número ", i      
+     FIN_Si
+     Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+      Si(i=3)
+	Escribe "Hello World"
+     Fin_Si
+    
+  FIN_PARA
+Fin
